@@ -9,10 +9,10 @@
 Membuat aplikasi yang berfungsi menampilkan Lokasi 10 Kabupaten di Daerah Provinsi Lampung.
 
 - Tampilan Hasil Pencarian.
-<p align="center"><img src="assets/Tampilan "></p>
+<p align="center"><img src="assets/Tampilan Maps.JPG "></p>
 
 - Tampilan Pencarian Tidak Ditemukan
-<p align="center"><img src="assets/Tampilan "></p> 
+<p align="center"><img src="assets/Tampilan Menu.JPG"></p> 
 
 3. Source Code :
 Main.js adalah file yang berisikan program dari tampilan awal atau tampilan utama dimana untuk style sendiri digabungkan dalam satu file ini yang terdapat dibagian bawah setelah return.
